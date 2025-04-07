@@ -1,0 +1,2 @@
+# tareacom
+tareadecompu
